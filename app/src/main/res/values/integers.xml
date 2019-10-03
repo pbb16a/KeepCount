@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="saved_default">0</integer>
+
+    <integer name="high_score">0</integer>
+    <integer name="your_score">0</integer>
+
+</resources>
